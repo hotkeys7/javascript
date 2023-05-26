@@ -1,0 +1,25 @@
+.grid {
+
+	width:615px;
+	height:606px;
+	display:flex;
+	flex-wrap: wrap;
+
+}
+
+.square {
+	height: 200px;
+	width: 200px;
+	border: solid rebeccapurple; 1px;
+}
+
+.interface {
+	text-align: center;
+}
+
+.mole {
+/*	background-color: seagreen;*/
+	background-image: url("mole3.png");
+	background-size: cover;
+
+}
